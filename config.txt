@@ -1,0 +1,4 @@
+{         "ip':"oGODosmp.aternos.me",
+          "port": "56948"
+          "name":  "zandubot"
+}
